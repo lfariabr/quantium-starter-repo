@@ -83,17 +83,20 @@ bash scripts/run_tests.sh
 Happy holidays! Here's a festive ASCII tree to mark the special day:
 
 ```
-        *
-       /|\
-      /*|O\
-     /*/|\*\
-    /X/\|/*\X\
-   /X/*/X\*\X\
-  /*/\X/\*\X/\
- /X/O/\*\O/\X\
-/*/\X/\*\X/\*\
-      |||
-     /___\
+          *
+         / \
+        / | \
+       /* | O\
+      / * | * \
+     /X/ \|/ \X\
+    / X / | \ X \
+   /* / \ X / \ *\
+  / X / O \ / O \ X\
+ /* / \ X / \ X / \*\
+/____________________\
+        |   |
+        |   |
+       *******
 ```
 
 **Made with ❤️ + ☕ on Christmas Day 2025** 🎅
